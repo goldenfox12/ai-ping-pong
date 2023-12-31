@@ -1,0 +1,27 @@
+body
+{
+
+}
+h1
+{
+    color: crimson;
+}
+
+button{
+    color: royalblue;
+}
+.restart_button
+{
+  color: darkmagenta;  
+}
+.footer
+{
+color: lightslategrey;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 30px;
+}
